@@ -1,2 +1,6 @@
 this is a new file1.
+<<<<<<< HEAD
 this is last modifiction
+=======
+this is file 1.2 updation.
+>>>>>>> training2

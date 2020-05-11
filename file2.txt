@@ -1,2 +1,6 @@
 this is our new file2.
+<<<<<<< HEAD
 this is the anroid project.
+=======
+this updation is for 2.2
+>>>>>>> training2
