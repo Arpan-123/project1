@@ -4,3 +4,4 @@ this is the anroid project.
 =======
 this updation is for 2.2
 >>>>>>> training2
+this is clone file 2

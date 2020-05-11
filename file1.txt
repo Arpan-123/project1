@@ -4,3 +4,4 @@ this is last modifiction
 =======
 this is file 1.2 updation.
 >>>>>>> training2
+this is clone file1
